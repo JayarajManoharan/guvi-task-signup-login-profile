@@ -1,7 +1,10 @@
 /* Set the background color of the page */
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-image: url('assets/img.jpg');
     background-color: #989898;
+    background-repeat: no-repeat;
+    background-size: cover;
     }
     
   /* Center the form on the page */
